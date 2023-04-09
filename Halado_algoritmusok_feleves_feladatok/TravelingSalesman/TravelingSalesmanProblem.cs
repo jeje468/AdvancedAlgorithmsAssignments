@@ -6,11 +6,6 @@ using System.Threading.Tasks;
 
 namespace Halado_algoritmusok_feleves_feladatok.TravelingSalesman
 {
-    static class Util
-    {
-        public static Random rnd = new Random();
-    }
-
     class Town
     {
         public string name { get; set; }
